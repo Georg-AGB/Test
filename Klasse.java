@@ -1,7 +1,0 @@
-class Klasse {
-  public Klasse()
-  {
-    
-  }
-
-}
