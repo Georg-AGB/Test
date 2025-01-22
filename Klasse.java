@@ -1,0 +1,7 @@
+class Klasse {
+  public Klasse()
+  {
+    
+  }
+
+}
